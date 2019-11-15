@@ -1,0 +1,15 @@
+br/com/tardeli/teste/VereadorTeste.class
+br/com/tardeli/modelo/Projeto.class
+br/com/tardeli/controle/PartidoControle.class
+br/com/tardeli/modelo/Partido.class
+br/com/tardeli/teste/ProjetoTeste.class
+br/com/tardeli/controle/ProjetoControle.class
+br/com/tardeli/dao/ProjetoDao.class
+br/com/tardeli/dao/PartidoDao.class
+br/com/tardeli/dao/Crud.class
+br/com/tardeli/teste/CarregarBancoExecutar.class
+br/com/tardeli/controle/VereadorControle.class
+br/com/tardeli/dao/VereadorDao.class
+br/com/tardeli/modelo/Pessoa.class
+br/com/tardeli/modelo/Vereador.class
+br/com/tardeli/teste/PartidoTeste.class
